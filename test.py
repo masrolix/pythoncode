@@ -1,1 +1,1 @@
-prit("Wassup Buddy!! v16")
+print("I messed up the code. Now it's fixed!")
